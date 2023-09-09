@@ -1,0 +1,26 @@
+
+
+
+.contenedor{
+  text-align:center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url(../../componentes/Imagen/DETAIL.png)   
+  no-repeat center center fixed;
+  background-size: cover;
+  color: aqua;
+}
+
+
+img{
+  width: 700px;
+  height: 400px;    
+  display: flex;
+  border-radius: 30px;
+  flex-wrap: wrap;
+  
+}

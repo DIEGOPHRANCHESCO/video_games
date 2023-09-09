@@ -1,0 +1,12 @@
+.home{
+  min-height: 100vh;
+  background: url(../../componentes/Imagen/HOME.png)  
+  no-repeat center center fixed;
+  background-size: cover;
+}
+
+.search{
+  justify-items: center;
+  align-items: center;
+  padding: 0px 0px 300px 0px;
+}

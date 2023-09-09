@@ -1,0 +1,46 @@
+.card{
+  width: 367px;
+  height: 300px;
+  border-radius: 20px;  
+  justify-content: center;
+  align-items: center;
+  background-color: initial;
+  
+  
+}
+
+.name{
+  animation: myAnim 1s ease 0s 1 normal forwards;;
+  cursor: pointer; 
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 1px;
+  font-size: 15px ;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  
+  
+}
+.genre{
+  padding: 0px 0px 10px 10px;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+ flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
+}
+
+.img{
+  
+  border-radius: 20px;
+  padding: 0px 0px 0px 8px;
+  width: 350px;
+  height: 219px;  
+  justify-content: center;
+  align-items: center;
+  
+}

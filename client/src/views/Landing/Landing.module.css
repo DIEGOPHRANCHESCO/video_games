@@ -1,0 +1,21 @@
+.contenedor{ 
+  text-align: center;
+  color: aqua;
+  justify-content:  center;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  
+  background: url(../../componentes/Imagen/LANDING.png)  
+  no-repeat center center fixed;
+  background-size: cover;
+ 
+}
+.input{
+  justify-content: end;
+  cursor: pointer;
+
+}
+ 
+
